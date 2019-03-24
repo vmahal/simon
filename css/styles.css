@@ -1,0 +1,69 @@
+
+ /* HTML elements */
+
+body{
+  background-color: #070d59;
+  text-align: center;
+}
+
+h1{
+  font-family: 'Orbitron', sans-serif;
+  font-size: 6rem;
+  color: #fdffdc;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+button{
+  padding: 100px;
+  border-radius: 50px;
+  border-width: 10px;
+  border-color: #000;
+  margin: 20px;
+}
+
+#str{
+  padding: 30px;
+  border-radius: 100%;
+  border-width: thick;
+  border-color:red ;
+  background-color: #fff;
+  color: red;
+  font-family: 'Orbitron', sans-serif;
+  font-weight: bold;
+  font-size: 1rem;
+
+}
+
+
+/* CLASSES */
+
+.red{
+  background-color: red;
+}
+
+.green{
+  background-color: green;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.pressed{
+  box-shadow: 0px 0px 20px #fff;
+  background-color: grey;
+}
+
+.error{
+  background-color: red;
+  opacity: 50%;
+}
+
+.start-but{
+  padding-bottom: 100px;
+}
